@@ -66,15 +66,15 @@
 
 // ejercicio 2
 
-let precio = parseFloat(prompt("Introduce precio"));
+// let precio = parseFloat(prompt("Introduce precio"));
 
-let Iva = parseFloat(prompt("Introduce el Iva"))/100;
+// let Iva = parseFloat(prompt("Introduce el Iva"))/100;
 
-let calculaIva = (precio, Iva) => {
+// let calculaIva = (precio, Iva) => {
 
-    return precio + precio*Iva;
-}
+//     return precio + precio*Iva;
+// }
 
 
-let resultado = calculaIva(precio, Iva)
-console.log(resultado)
+// let resultado = calculaIva(precio, Iva)
+// console.log(resultado)
